@@ -1,3 +1,5 @@
-## Знакомство с OpenSCAD
+## Introduction to the OpenSCAD
 
-Это файл с тренировочным объектом в системе проектирования OpenSCAD.
+[The same README in russian](README.ru.md)
+
+Here you can find a file with a test OpenSCAD model.
